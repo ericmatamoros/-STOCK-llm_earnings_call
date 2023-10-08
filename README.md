@@ -1,6 +1,6 @@
-# {{llm_earnings_call}}
+# Sentiment analysis of stock news using LLM
 
-This repository contains the required functions & classes for the project: {{llm_earnings_call}}
+This repository contains the required functions & classes for the project: Sentiment analysis of stock news using LLM
 
 ## Set up virtual environment & install dependencies
 

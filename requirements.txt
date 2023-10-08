@@ -3,4 +3,6 @@ pandas
 numpy
 pyyaml
 jupyter
-scikit-learn
+openai
+spacy
+pandarallel
